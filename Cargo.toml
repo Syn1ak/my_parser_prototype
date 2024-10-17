@@ -1,0 +1,9 @@
+[package]
+name = "my_parser_kma"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Parser for string vector representation to real vector"
+
+[dependencies]
+peg = "0.8.4"
